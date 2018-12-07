@@ -89,6 +89,15 @@ form {
   display: inline;
 }
 
+#footer-form {
+  /* margin: 0 0 0 40% !important; */
+  display: inline;
+}
+
+#footer-input {
+  margin-top: 0;
+}
+
 input {
   margin-top: 10%;
 }
