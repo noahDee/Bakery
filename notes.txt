@@ -21,7 +21,8 @@ footer
 	-newsletter
 	-socials, address, blah(x3)
 
-
-add borders to product grids
-load up backend
+logo
+color
+font
+newletter
 
