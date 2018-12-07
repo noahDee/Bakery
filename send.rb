@@ -18,5 +18,3 @@ class Newsletter < ActionMailer::Base
          subject: "[Signed up] Welcome #{recipient}")
   end
 end
-
-Newsletter.welcome("noah.dorce65@gmail.com").deliver_now

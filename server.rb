@@ -27,4 +27,11 @@ end
 
 get "/contact" do
   erb :contact
+
+end
+
+get "/success" do
+  erb :success
+  load 'C:\Users\Noah\Desktop\NYCDA\Projects\Bakery\send.rb'
+  Newsletter.welcome("#{params['email'].to_s}").deliver_now
 end
