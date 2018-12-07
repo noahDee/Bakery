@@ -19,4 +19,4 @@ class Newsletter < ActionMailer::Base
   end
 end
 
-Newsletter.welcome("noahdee@icloud.com").deliver_now
+Newsletter.welcome("noah.dorce65@gmail.com").deliver_now

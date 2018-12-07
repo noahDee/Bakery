@@ -1,0 +1,27 @@
+
+
+logo
+
+nav
+	-home
+	-shop
+	-about us
+	-contact us
+
+carousel
+	-cakes
+	-cookies
+	-muffins
+	-about us
+
+best sellers
+	9 items maybe?
+
+footer
+	-newsletter
+	-socials, address, blah(x3)
+
+
+add borders to product grids
+load up backend
+
